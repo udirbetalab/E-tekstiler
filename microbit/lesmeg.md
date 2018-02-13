@@ -1,4 +1,4 @@
-# E-tekstiler
+# E-tekstiler med micro:bit
 
 Enkel e-tekstil krets med micro:bit og to neopixel
 
