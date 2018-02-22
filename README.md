@@ -4,4 +4,4 @@ Med ulike microkontrollere
 
 micro:bit - https://github.com/udirbetalab/E-tekstiler/tree/master/microbit
 
-Gemma - https://github.com/udirbetalab/E-tekstiler/blob/master/Gemma/lesmeg.md
+Gemma - https://github.com/udirbetalab/E-tekstiler/tree/master/Gemma
