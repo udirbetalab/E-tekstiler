@@ -3,5 +3,5 @@
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/Circuit_Playground/circuit_playground_3_neopixel.jpg" width="450"><br>
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/Circuit_Playground/circuit_playground_3_neopixel_bb.png" width="300">
 
-Circuit Playground with three NeoPixel
+Circuit Playground med tre NeoPixel sydd med strømførende tråd.
 
