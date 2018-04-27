@@ -27,3 +27,5 @@ Legg på krympeplast som går utenpå neopixel og krymp til med en liten bit av 
 
 
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/IMG_1703.jpg" width=450><br>
+
+MakeCode CPX: https://makecode.com/_FueWfWgaCXgF
