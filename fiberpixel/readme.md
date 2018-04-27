@@ -21,6 +21,6 @@ Viktig med en prøving om neopixel lyser etter lodding av ledningene.<br>
 Legg på en tynn krympeplast rundt ledningene slik at det blir mer stabilt.<br>
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel07.jpg" width=450><br>
 
-Legg på krympeplast som går utenpå neopixel og smelt med en liten bit av fiberoptikken tett inntil neopixel.<br>
+Legg på krympeplast som går utenpå neopixel og krymp til med en liten bit av fiberoptikken tett inntil neopixel.<br>
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel08.jpg" width=450><br>
 
