@@ -15,7 +15,7 @@ For å finne ut hvilke bein på neopixel tar du utganspunkt i forsiden og ser hv
 Lodd på små tynne ledninger. Bruk gjerne ulike farger på jord/strøm og signal.<br> 
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel04.jpg" width=450><br>
 
-Vitig med en prøving av neopixel etter lodding av ledningene.<br>
+Viktig med en prøving om neopixel lyser etter lodding av ledningene.<br>
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel05.jpg" width=450><br>
 
 Legg på en tynn krympeplast rundt ledningene slik at det blir mer stabilt.<br>
