@@ -16,5 +16,5 @@ Kobing mellom fiberoptikk og neopixel
 
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel07.jpg" width=450><br>
 
-<img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel08.jpf" width=450><br>
+<img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel08.jpg" width=450><br>
 
