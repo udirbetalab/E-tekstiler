@@ -3,8 +3,6 @@
 Kobing mellom fiberoptikk og neopixel<br>
 <img src="https://media.giphy.com/media/9rifDWkXTleezznOPx/giphy.gif"><br>
 
-<img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/IMG_1703.jpg" width=450><br>
-
 Løsne neopixel ved hjelp av loddebolt. Forsiktig så du ikke smelter det hvite på neopixel.<br>
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel01.jpg" width=450><br>
 
@@ -26,3 +24,6 @@ Legg på krympeplast som går utenpå neopixel og krymp til med en liten bit av 
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel08.jpg" width=450><br>
 
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel09.JPG" width=450><br>
+
+
+<img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/IMG_1703.jpg" width=450><br>
