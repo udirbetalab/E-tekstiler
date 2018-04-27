@@ -1,4 +1,5 @@
 # Fiberpixel
 
-Kobing mellom neopixel og fiberoptikk
+Kobing mellom fiberoptikk og neopixel
+
 
