@@ -24,4 +24,4 @@ Legg på en tynn krympeplast rundt ledningene slik at det blir mer stabilt.<br>
 Legg på krympeplast som går utenpå neopixel og krymp til med en liten bit av fiberoptikken tett inntil neopixel.<br>
 <img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel08.jpg" width=450><br>
 
-<img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel09.jpg" width=450><br>
+<img src="https://github.com/udirbetalab/E-tekstiler/blob/master/fiberpixel/fiberpixel09.JPG" width=450><br>
