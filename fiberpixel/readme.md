@@ -1,6 +1,6 @@
 # Fiberpixel
 
-Kobing mellom fiberoptikk og neopixel<br>
+Kobling mellom fiberoptikk og neopixel<br>
 <img src="https://media.giphy.com/media/9rifDWkXTleezznOPx/giphy.gif"><br>
 
 Løsne neopixel ved hjelp av loddebolt. Forsiktig så du ikke smelter det hvite på neopixel.<br>
